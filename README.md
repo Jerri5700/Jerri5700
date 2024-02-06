@@ -1,5 +1,8 @@
 ## Hi everybody, my name is Balth@zaR
-### I work as a software developer
+### Я работаю на должности инженер-программист 2-категории.
+### Мои знания языков программирования: HTML5, CSS3, JavaScript, Java, C#, SQL
+
+![]()
 <!--
 **Jerri5700/Jerri5700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
