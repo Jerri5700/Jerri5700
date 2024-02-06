@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi everybody, my name is Balth@zaR
+### I work as a software developer
 <!--
 **Jerri5700/Jerri5700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
