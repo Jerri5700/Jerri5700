@@ -1,6 +1,6 @@
 ## Hi everybody, my name is Balth@zaR
 ### Я работаю на должности инженер-программист 2-категории.
-### Мои знания языков программирования: HTML5, CSS3, JavaScript, Java, Python, C#, SQL
+### Я изучаю языки: HTML5, CSS3, JavaScript, Java, Python, C#, SQL
 
 ![]()
 <!--
